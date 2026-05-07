@@ -7,7 +7,7 @@
     <author name="UQ Solutions" email="your-email@example.com" organization="UQ Solutions" website="https://github.com/Lucas-Wisnieski/uq-solutions-API"/>
     <min-api-version>1.0</min-api-version>
     <source-location>
-      <url>https://lucas-wisnieski.github.io/uq-solutions-API/API-extension.html</url>
+      <url>https://uq-solutions.github.io/uq-solutions-API/API-extension.html</url>
     </source-location>
     <permissions>
       <permission>full data</permission>
